@@ -12,9 +12,9 @@
 			<h1>BEFORE</h1>		
 			<form id="before" action="processApplication.php" method="post">
 				<h2>Contact This Dealer</h2>
-				<span><a href=""><b>Infiniti of Couconut Creeck</b></a></span>
+				<a href="" class="arrow"><b>Infiniti of Couconut Creeck</b></a>
 				<p>800-577-7300</p>
-				<span><a href="">Seee All Dealer Inventory</a></span>
+				<a href="" class="arrow">Seee All Dealer Inventory</a>
 				<div class="formarea clearfix">
 					<div class="clearfix">
 						<label for="first-name">First Name:</label>
@@ -51,11 +51,11 @@
 					</div>	
 					<input type="submit" value="SEND" class="button">
 					<ul>
-						<li><a href="">Privacy Policy</a><li>
-						<li><a href="">Get your CARFAX report for this GMC</a></li>
-						<li><a href="">Calculat your monthly payment</a></li>
-						<li><a href="">Get your credit score now</a></li>
-						<li><a href="">Get a free insurance quote for this GMC</a></li>
+						<li><a href="" class="arrow">Privacy Policy</a><li>
+						<li><a href="" class="arrow">Get your CARFAX report for this GMC</a></li>
+						<li><a href="" class="arrow">Calculat your monthly payment</a></li>
+						<li><a href="" class="arrow">Get your credit score now</a></li>
+						<li><a href="" class="arrow">Get a free insurance quote for this GMC</a></li>
 					</ul>	
 				</div>
 			</form>
@@ -100,15 +100,15 @@
 					<label for="news" class="textnews"><input type="checkbox" id="news"><p>Yes I'm interesten in receiving news and special offers from Kelley Blue Book </p></label>
 				</div>
 				<div class="clearfix privacy">
-					<a href="">Privacy Policy</a>
+					<a href="" class="arrow">Privacy Policy</a>
 					<input type="submit" value="SEND THIS MESSAGE" class="button">
 				</div>
 			</div>
 				<ul class="links">
-					<li><a href="">View thefree CARFAX Report</a></li>
-					<li><a href="">Calculat your monthly payment</a></li>
-					<li><a href="">Get your credit score now</a></li>
-					<li><a href="">Get a free insurance quote for this GMC</a></li>
+					<li><a href="" class="arrow">View thefree CARFAX Report</a></li>
+					<li><a href="" class="arrow">Calculat your monthly payment</a></li>
+					<li><a href="" class="arrow">Get your credit score now</a></li>
+					<li><a href="" class="arrow">Get a free insurance quote for this GMC</a></li>
 				</ul>	
 			</form>
 		</div>

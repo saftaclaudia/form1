@@ -63,9 +63,9 @@ form{
 		margin:0 0 10px 10px;
 	}
 
-	  li,
-	 .before-form span{
-		background-image:url(images/arow.png);
+	  
+	 .arrow{
+		background-image:url(images/arrow.png);
 		background-repeat: no-repeat;
 		background-position: left, center;
 		background-size: 10px;
@@ -255,6 +255,7 @@ form{
 	.links{
 		background-color: #ffffff;
 		padding-top: 15px;
+		padding-left: 10px;
 	}
 	.links li{
 		line-height: 1em;
