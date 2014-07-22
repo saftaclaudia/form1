@@ -60,7 +60,7 @@ form{
 	}
 	#before p{
 		text-align: justify;
-		margin:0 10px 10px 10px;
+		margin:0 0 10px 10px;
 	}
 
 	  li,
@@ -78,57 +78,47 @@ form{
 
 	.before-form label{
 		color:#788691;
-		margin-left: 55px;
-	}
-	.before-form .address{
-	margin-left: 34px;
-	}
-	.before-form .zipcode{
-		margin-left: 63px;
-	}
-	.before-form .email{
-		margin-left: 82px;
-	}
-	.before-form .phone{
-		margin-left: 77px;
-	}
-	.before-form .comments{
-		margin-left: 50px;
+		width: 40%;
+		text-align:right;
 		float: left;
 		padding-right: 5px;
+		padding-top: 5px;
 	}
+	.before-form .textnews{
+		width: 97%;
+	}
+	
 	.before-form input{
 		margin-bottom: 6px;
 		margin-top: 6px;
 	}
-	.before-form #first-name,
-	.before-form #last-name,
-	.before-form #address,
-	.before-form #zip-code,
-	.before-form #email {
+	.before-form input {
 		width: 150px;
 	}
 
-	#phone{
+	#phone1,
+	#phone2{
 		width: 40px;
+	}
+	#phone3{
+		width: 45px;
 	}
 	textarea{
 		width: 150px;
 		height: 100px;
 		padding-top: 10px;
 	}
-	.before-form .textnews{
-		margin-left: 10px;
-		float: left;
-		margin-top: 10px;
-		margin-right: 5px;
-	}
+	
+	
 	#news{
 		margin-top: 5px;
 		display:block;
 		float:left;
 		margin-right: 2px;
-
+		width: 20px;
+	}
+	.news{
+		padding-top: 20px;
 	}
 	.before-form label p{
 		margin-top: 5px;
@@ -149,6 +139,7 @@ form{
 
 	.before-form .button{
 		margin-left: 220px;
+		width: 50px;
 	}
 
 	ul{

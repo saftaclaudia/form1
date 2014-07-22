@@ -16,23 +16,37 @@
 				<p>800-577-7300</p>
 				<span><a href="">Seee All Dealer Inventory</a></span>
 				<div class="formarea clearfix">
-					<label for="first-name">First Name:</label>
-					<input id="first-name" type="text">
-					<label for="last-name">Last Name:</label>
-				    <input id="last-name" type="text">
-					<label for="address" class="address" type="text"> Street Address:</label>
-					<input id="address">
-					<label for="zip-code" class="zipcode">ZIP Code:</label>
-					<input id="zip-code" type="text">
-					<label for="email" class="email">Email:</label>
-					<input id="email" type="text">
-					<label for="phone" class="phone">Phone:</label>
-					<input id="phone" type="text">
-					<input id="phone" type="text">
-					<input id="phone" type="text">
-					<label for="comments" class="comments">Comments:</label>
-					<textarea id="comments"></textarea>
-					<div cass="clearfix">
+					<div class="clearfix">
+						<label for="first-name">First Name:</label>
+						<input id="first-name" type="text">
+					</div>
+					<div class="clearfix">
+						<label for="last-name">Last Name:</label>
+				   		<input id="last-name" type="text">
+				   	</div>
+				   	<div class="clearfix">
+						<label for="address" class="address" type="text"> Street Address:</label>
+						<input id="address">
+					</div>
+					<div class="clearfix">
+						<label for="zip-code" class="zipcode">ZIP Code:</label>
+						<input id="zip-code" type="text">
+					</div>
+					<div class="clearfix">
+						<label for="email" class="email">Email:</label>
+						<input id="email" type="text">
+					</div>
+					<div class="clearfix">
+						<label for="phone" class="phone">Phone:</label>
+						<input id="phone1" type="text">
+						<input id="phone2" type="text">
+						<input id="phone3" type="text">
+					</div>
+					<div class="clearfix">
+						<label for="comments" class="comments">Comments:</label>
+						<textarea id="comments"></textarea>
+					</div>
+					<div class="clearfix news">
 						<label for="news" class="textnews"><input type="checkbox" id="news"> <p>Yes I'm interesten in receiving news and special offers from Kelley Blue Book </p></label>
 					</div>	
 					<input type="submit" value="SEND" class="button">
