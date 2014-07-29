@@ -213,10 +213,7 @@ form{
 		text-align: justify;
 		line-height: 24px;
 	}
-	.afterform-data .client-message label
-	.afterform-data .client-message form{
-		display: inline;
-	}
+	
 	.afterform-data #first-name,
 	.afterform-data #last-name{
 		width: 70px;
